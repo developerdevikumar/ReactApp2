@@ -5,7 +5,7 @@ function Header() {
 
   <div className="navbar navbar-expand-lg bg-dark navbar-dark">
             <div className="container-fluid">
-                <a href="index.html" className="navbar-brand">Confer</a>
+                <a href="index.html" className="navbar-brand">LightingLogistics</a>
                 <button type="button" className="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                     <span className="navbar-toggler-icon"></span>
                 </button>
